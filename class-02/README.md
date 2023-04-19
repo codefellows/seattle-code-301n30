@@ -1,5 +1,18 @@
 # State and Props
 
+# Links
+
+[Replit](https://replit.com/@RogerMReyes/code301n30-class02)
+[Invision](https://rogerreyes807252.invisionapp.com/freehand/code301n30-class02-fwIKAxyIo)
+
+# Retros
+
+- Deleting starting files
+- .forEach is an array method
+- late submission for career assignments
+- Remember to use branches
+- A lot of content to absorb
+
 ## Overview
 
 This class will focus on passing information as `props` from a parent component into a child component. We will also cover the concept of `state` and how individual components can hold state.
