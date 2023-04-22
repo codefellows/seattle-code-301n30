@@ -1,5 +1,21 @@
 # Passing Functions as Props
 
+## Links
+
+- [Replit](https://replit.com/@RogerMReyes/301n30-class03#index.js)
+- [Invision](https://rogerreyes807252.invisionapp.com/freehand/301-class03-kfcUTHzDG?landingTemplate=true)
+
+## Retros
+
+- Bootstrap Grid
+- How exactly CSS integrates with react-bootstrap/ best practices
+- Imported fonts styling?
+- Debugging and where to start
+- When should I make a block of code a component
+  - Is the block of code being Reused?
+  - Is there a lot of code that's hindering readability?
+  - Apply the rule of Single Use Reponsability
+
 ## Overview
 
 In the last class, you learned how to pass information from a parent component into a child component through `props`. For this class, we are going to pass functions through the `props` as well. We are also going to display a nested component using `.map` rather than hard-coding each one individually.
