@@ -1,0 +1,5 @@
+.students{
+    display: flex;
+    flex-wrap: wrap;
+}
+
