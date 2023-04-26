@@ -1,5 +1,16 @@
 # React and Forms
 
+## Links
+
+- [Replit](https://replit.com/@RogerMReyes/301n30-class04#index.js)
+
+## Retros
+
+- Spread Operator
+- Mistakes are good!
+- SelectedBeast Modal Component Location, Could it have been placed in Main?
+- Functions are needed to change state in another component
+
 ## Overview
 
 In this class we will cover how React handles `forms` and the asynchronous nature of setting state.
