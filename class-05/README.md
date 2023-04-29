@@ -1,5 +1,13 @@
 # Class 5: Putting it all together
 
+## Links
+
+- [Replit](https://replit.com/@RogerMReyes/code301n30-class05)
+
+## Retros
+
+- How exactly does the SelectedBeast Component has the specific beasts data
+
 ## Overview
 
 For this class we will use the skills we learned during the last module to build a new application: city explorer! Your lab will be to take React starter code and turn it into a beautiful portfolio.
