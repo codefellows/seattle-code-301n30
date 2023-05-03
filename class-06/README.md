@@ -1,5 +1,18 @@
 # Asynchronous Code and Third Party APIs
 
+## Links
+
+[Replit Val vs Ref](https://replit.com/@RogerMReyes/301n30-class06)
+[Replit API/aync-await](https://replit.com/@RogerMReyes/301n30-APIs-and-Async)
+[Invision](https://rogerreyes807252.invisionapp.com/freehand/301n29-class06-SCqbqNZBh)
+
+## Retros
+
+- Portfolio User information inside json file
+- Arrow functions
+  - name = (parameters) => {code block} or implicit return
+  - () => {code block}
+
 ## Overview
 
 For this class we will explore third party APIs and how to request data from them.
