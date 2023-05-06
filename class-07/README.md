@@ -1,5 +1,15 @@
 # Express Servers
 
+## Links
+
+-[Replit](https://replit.com/@RogerMReyes/301n30-class07#index.js)
+-[Invision](https://rogerreyes807252.invisionapp.com/freehand/class-07-qNCtFktbs?dsid_h=d1dfc2800a2d2f45c8e356345add67add6646cc8496e21fa0652fc8020e6bfca&uid_h=a71a412343c713ac5797166d6811cdaa472b164b049a62bb0abc75b200c81042)
+
+## Retros
+
+- Netlify?
+- API costs?
+
 ## Overview
 
 In this class we will build our own custom Express server in Node.js. We will server our front end static files and dive more deeply into the WRRC.
