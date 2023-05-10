@@ -1,5 +1,10 @@
 # APIs
 
+## Links
+
+-[Replit](https://replit.com/@RogerMReyes/301n30-class08)
+-[Invision](https://rogerreyes807252.invisionapp.com/freehand/class-07-qNCtFktbs)
+
 ## Retros
 
 - Practice, practice, practice
