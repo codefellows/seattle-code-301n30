@@ -1,5 +1,28 @@
 # Advanced Topics
 
+## Links
+
+-[Replit Object Methods](https://replit.com/@RogerMReyes/Code301n30-class09#index.js)
+-[Replit Promises](https://replit.com/@RogerMReyes/301n30-Promises)
+
+## Retros
+
+- Query Parameters - Two Sets
+  - First set are between our front end client and backend client
+  - Second set are the query parameters required by the API we are using
+
+- Console logs are your best friend, Step through your code
+
+- Async and Await
+  - When making any request, the time it takes to get a response can vary
+  - Trying to use data before the response get back can lead to bugs so we want to 'await' the data before using it
+
+- next(error) the next function is passed to the next function to pass whatever error was thrown to our error handling middleware
+
+- Thunderclient will count towards any requests made to an API. Be careful when working with API's that have request limits.
+
+- Regex patterns are hard, Yes
+
 ## Overview
 
 For this class we will dive a little bit deeper into Express and higher level programming in general, covering the following topics:
