@@ -1,5 +1,17 @@
 # Persistence
 
+## Links
+
+- [Replit](https://replit.com/@RogerMReyes/code301n30-class10#index.js)
+- [Invision](https://rogerreyes807252.invisionapp.com/freehand/301n30-class10-EDI2AcMJB?landingTemplate=true)
+
+## Retros
+
+- We use next() to move us on though our middleware
+  - without next() the request can be left hanging introducing bugs
+
+- setState and console logging
+
 ## Overview
 
 During this class we will talk about in-memory storage as well as dive deeper into modularization and refactorization.
@@ -30,15 +42,16 @@ During this class we will talk about in-memory storage as well as dive deeper in
 
 ## Notes
 
-1. What is a cache?
+1. List Different Debugging tools:
 
-1. What does a cache hit mean? What does a cache miss mean?
-
-1. What does the word `debugger` do in your code?
-
-1. What is a breakpoint?
-
-1. List 5 different debugging tools:
+- console.log() to walk through our code
+- breakpoints, add debugger keyword
+- eslint
+- prettier
+- rainbow brackets
+- Live Share VS
+- [VS Code Debugger tool](https://code.visualstudio.com/docs/editor/debugging)
+- [Debugger](https://docs.microsoft.com/en-us/visualstudio/debugger/using-breakpoints?view=vs-2022)
 
 1. Adding to the cache:
 
