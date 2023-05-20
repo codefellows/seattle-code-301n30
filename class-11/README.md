@@ -1,5 +1,21 @@
 # MongoDB, Mongoose and Data Modeling
 
+## Links
+
+[Invision](https://rogerreyes807252.invisionapp.com/freehand/Class11-5azAGGX9x?dsid_h=e7513579d0a3f09b41d7572687e2eae89b82b05701d6a89c19e46984e253428e&uid_h=a71a412343c713ac5797166d6811cdaa472b164b049a62bb0abc75b200c81042)
+[Replit](https://replit.com/@RogerMReyes/301n30-class11#index.js)
+
+## Retros
+
+- Netlify is mainly geared towards hosting static site web applications
+  - Render is more general, can do both
+
+- cache will auto clear when shut down
+  - manual clearing you would run a `delete` on the property
+
+- Hosting site cache is not connected to the our own cache we created
+  - i.e. node modules
+
 ## Overview
 
 This is the beginning of our new project, a mobile-only book collection. You will be gradually working towards a full-scale application, complete with an express server, persistence in a MongoDB database, authentication, and the ability to view, add, update and delete books from your React front end.
